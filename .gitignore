@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+mlruns/
+mlartifacts/
+mlflow.db
+outputs/
+.ipynb_checkpoints/
+.edge_profile/
+.chrome_profile/
+*.log

@@ -1,0 +1,12 @@
+# Python 3.13.9
+# Entrenamiento (train.py)
+numpy==2.3.5
+pandas==2.3.3
+scikit-learn==1.7.2
+mlflow==3.16.1
+matplotlib==3.10.6
+requests==2.32.5
+
+# Solo para el notebook de exploracion (notebooks/eda_adult.ipynb)
+seaborn==0.13.2
+jupyter
